@@ -15,8 +15,6 @@ The Frogge Game incorporates economic incentives to foster engagement. Frog and 
 ## Random Distribution of FRGE Tokens and Rockets
 To incentivize player participation, The Frogge Game introduces the concept of Frogge (FRGE) tokens. A total of 3,000,000 FRGE tokens per supported chain are minted for the game. These tokens act as a digital currency within the game ecosystem, enhancing gameplay progression, and serving as a measure of player success.
 
-In addition to coins, players will also have the opportunity to encounter rockets on the island. These rockets serve as a means for frogs to escape the game and secure the coins they have collected. The acquisition of a rocket adds a new layer of strategy and competition as players strive to gather enough coins and secure a rocket to exit the game with their earnings.
-
 ## More Islands and Boat Ports
 To enhance gameplay variety and exploration, The Frogge Game introduces additional islands represented by NFTs. These islands present unique challenges and opportunities for players to earn more coins. Similar to frog and zombie frog homes, players must pay a fee to access these islands, contributing to the economic ecosystem of the game.
 
