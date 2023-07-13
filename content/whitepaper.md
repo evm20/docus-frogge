@@ -15,7 +15,7 @@ To incentivize player participation, The Frogge Game introduces the concept of F
 ## Economic Incentives
 The Frogge Game incorporates economic incentives to foster engagement. Frog and zombie frog homes, represented by NFTs, serve as safe havens for their respective factions. When seeking refuge in these homes, players are required to pay a fee predetermined by the NFT owner and noted on the same coins that the player collects. This economic model encourages strategic planning, collaboration, and a dynamic player-driven economy. The fees paid go to the owner of the NFT, minus a small fee that funds the development of the game.
 
-## More Islands and Boat Ports
+### Islands and Boat Ports
 To enhance gameplay variety and exploration, The Frogge Game introduces additional islands represented by NFTs. These islands present unique challenges and opportunities for players to earn more coins. Similar to frog and zombie frog homes, players must pay a fee to access these islands, contributing to the economic ecosystem of the game.
 
 To facilitate travel between islands, boat ports are strategically placed throughout the map. Just like home and islands, players pay a fee to use these boat ports, allowing them to move seamlessly between different islands and expand their gameplay access.
