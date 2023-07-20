@@ -1,10 +1,10 @@
 # The Frogge Game: A Peer-to-Peer Survival Economy
 
 **Abstract:**
-This whitepaper introduces The Frogge Game, a unique multiplayer experience that blends survival gameplay, economic incentives, and blockchain technology. Our game aims to create an immersive and skillful environment where players compete for cryptocoins while navigating the challenges of an island of frogs and zombie frogs. By leveraging non-fungible tokens (NFTs) and a peer-to-peer economic model, The Frogge Game offers an innovative approach to in-game transactions and player interaction. This whitepaper outlines the core concepts and the use of FRGE tokens and NFTs within The Frogge Game.
+This whitepaper introduces The Frogge Game, a unique multiplayer experience that blends survival gameplay, token incentives, and blockchain technology. Our game aims to create an immersive and skillful environment where players compete for cryptocoins while navigating the challenges of an island of frogs and zombie frogs. By leveraging non-fungible tokens (NFTs) and a peer-to-peer economic model, The Frogge Game offers an innovative approach to in-game transactions and player interaction.
 
 ## Introduction
-The Frogge Game introduces a captivating world set on an archipelago inhabited by two factions: the frogs and the menacing zombie frogs. Players take on the role of either a frog or a zombie frog, engaging in intense competition to catch coins scattered throughout the map. This whitepaper explores the mechanics and economic dynamics that underpin The Frogge Game.
+The Frogge Game introduces a captivating world set on an archipelago inhabited by two factions: the frogs and the menacing zombie frogs. Players take on the role of either a frog or a zombie frog, engaging in intense competition to catch coins scattered throughout the map. This whitepaper explores the mechanics and economic dynamics that underpin The Frogge Game, including the FRGE tokens and NFTS.
 
 ## Gameplay Mechanics
 The gameplay of The Frogge Game revolves around the alternating cycles of day and night. During the day, frogs have the advantage, as they can eliminate zombie frogs and collect coins unhindered. Conversely, during the night, the zombie frogs gain the upper hand, targeting the vulnerable frogs while continuing their pursuit of coins. The game mechanics emphasize team play, strategic decision-making, survival skills, and resource management.
