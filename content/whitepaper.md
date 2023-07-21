@@ -1,4 +1,4 @@
-# The Frogge Game: A Peer-to-Peer Survival Economy
+# The Frogge Game: A Peer-to-Peer Survival Economy Game
 
 ## Abstract
 This whitepaper introduces The Frogge Game, a unique multiplayer experience that blends survival gameplay, token incentives, and blockchain technology. Our game aims to create an immersive and skillful environment where players compete for cryptocoins while navigating the challenges of an island with competing factions. By leveraging non-fungible tokens (NFTs) and a peer-to-peer economic model, The Frogge Game offers an innovative approach to NFTs, in-game transactions and player interaction.
