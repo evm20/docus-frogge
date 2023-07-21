@@ -32,7 +32,7 @@ To ensure the integrity of the game and prevent civil attacks, players are requi
 ## Special tokens and Inventory
 There are 3 special tokens in the game, that provide the player with special abilities. The invisibility token, that turns the player invisible for a few seconds. Other players may then no see the frog, but may see tokens dissapear. The speed token, that allows a player to move faster for a few seconds. And finally the switch side token, that will conver a frog into a zombie frog, or a zombie frog into a regular frog. All these tokens are represented on the blokchain as an erc20 tokens, they are scarce and can be aquiered by the players by swaping the FRGE token they collect to them.
 
-##Game UX
+## Game UX
 Game graphics are a reminiscence of the early nes and snes tailset based game. It is inspired on famous RPS like Zelda and dragon quest series. While the UX is enjoyable, it does not focus on intensive graphics, but on a more simplistic game style where decision making and resource management play the most important role. The game is desgined to be played on mobile phones, and the UI is reminiscent of the classif portable consoles of the 90s. A cursor lets the frog jump around the map, the A button opens the inventory to select an activate a special ability like insiviliby., and the B button allows to record an audio message that is played in the map, as a way to create a sociable experience. 
 
 ## Conclusion
