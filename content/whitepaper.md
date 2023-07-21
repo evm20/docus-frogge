@@ -29,7 +29,7 @@ The islands, homes, and sailing ports can be acquired by users who have collecte
 ## Payment and FRGE Conversion
 To ensure the integrity of the game and prevent civil attacks, players are required to pay a small fee each time they wish to participate. This payment mechanism serves as a deterrent against unfair behavior, such as civil attacks. The player's payment is instantly converted into FRGE tokens using an automated market maker (AMM) integrated within the game. The acquired FRGE tokens are then randomly distributed across the islands. The AMM provides a seamless and secure way to convert the blockchain currency to FRGE tokens, ensuring transparency and efficiency in the process, while also increasing real-world value to the FRGE coins.
 
-## Special tokens and Inventory
+## Special tokens and Inventory (could be EOS across chains).
 There are 3 special tokens in the game, that provide the player with special abilities. The invisibility token, that turns the player invisible for a few seconds. Other players may then no see the frog, but may see tokens dissapear. The speed token, that allows a player to move faster for a few seconds. And finally the switch side token, that will conver a frog into a zombie frog, or a zombie frog into a regular frog, yet loose any collected coins. All these tokens are represented on the blokchain as an erc20 tokens, they are scarce and can be aquiered by the players by swaping only the FRGE token they collect to them; thus giving FRGE token further value in the game.  When a token is used it is burn from the blockhain, thus making it more valuable as the game progresses. 
 
 ## Game UX
