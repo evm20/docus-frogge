@@ -29,5 +29,11 @@ The islands, homes, and sailing ports can be acquired by users who have collecte
 ## Payment and FRGE Conversion
 To ensure the integrity of the game and prevent civil attacks, players are required to pay a small fee each time they wish to participate. This payment mechanism serves as a deterrent against unfair behavior, such as civil attacks. The player's payment is instantly converted into FRGE tokens using an automated market maker (AMM) integrated within the game. The acquired FRGE tokens are then randomly distributed across the islands. The AMM provides a seamless and secure way to convert the blockchain currency to FRGE tokens, ensuring transparency and efficiency in the process, while also increasing real-world value to the FRGE coins.
 
+## Special tokens and Inventory
+There are 3 special tokens in the game, that provide the player with special abilities. The invisibility token, that turns the player invisible for a few seconds. Other players may then no see the frog, but may see tokens dissapear. The speed token, that allows a player to move faster for a few seconds. And finally the switch side token, that will conver a frog into a zombie frog, or a zombie frog into a regular frog. All these tokens are represented on the blokchain as an erc20 tokens, they are scarce and can be aquiered by the players by swaping the FRGE token they collect to them.
+
+##Game UX
+Game graphics are a reminiscence of the early nes and snes tailset based game. It is inspired on famous RPS like Zelda and dragon quest series. While the UX is enjoyable, it does not focus on intensive graphics, but on a more simplistic game style where decision making and resource management play the most important role.
+
 ## Conclusion
 The Frogge Game presents an innovative gaming experience that merges survival gameplay, economic incentives, and blockchain technology. By immersing players in a dynamic environment where skillful gameplay, economic decision-making, and the acquisition of FRGE tokens intertwine, The Frogge Game aims to reshape the gaming landscape. With the support of a vibrant community, continuous development, and player-centric design, The Frogge Game seeks to establish itself as a trailblazer in the gaming industry.
