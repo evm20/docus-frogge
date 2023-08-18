@@ -15,7 +15,7 @@ To incentivize player participation, *The Frogge Game* introduces the concept of
 ## NFTs
 The Frogge Game incorporates further economic incentives to foster engagement. Frog and zombie frog homes, represented by NFTs, serve as safe havens for their respective factions during their vulnerable time of the day. When seeking refuge in these homes, players are required to pay a fee predetermined by the home NFT owner, which is noted on the same coins that the player collects. There are a total of 88 homes across the virtual world. So during the night, Frogs take refuge in the homes. While at home, they turn into Ghosts; ghosts can then roam freely in the world, and while they can't do anything against the enemy, it is the time when an attack to the counter side can be coordinated. That way there is something to do while waiting for the correct time of the day to get some coins.
 
-## Islands and Sailboats
+### Islands and Sailboats NFTs
 To enhance gameplay variety and exploration, *The Frogge Game* introduces 88 islands represented by NFTs. These islands present unique challenges and opportunities for players to earn more coins. Similar to frog and zombie frog homes, players must pay a fee to access these islands, contributing to the economic ecosystem of the game. The fees are paid to the Island NFT owner, with 20% collected to support game development and maintenance.
 
 88 Strategically placed sailing ports facilitate travel between islands; players pay a fee to use them. However, beware, as there is a 10% chance of encountering the dreaded kraken during the journey.
